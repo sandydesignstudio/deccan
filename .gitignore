@@ -1,0 +1,9 @@
+# private or source material: not part of the published site
+source/
+*.pdf
+Factory.png
+Think gas.png
+assets/Factory.png
+design-spec.md
+.claude/
+.DS_Store
